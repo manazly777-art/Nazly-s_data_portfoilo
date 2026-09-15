@@ -1,2 +1,3 @@
-# Nazly-s_data_portfoilo
-Data Analytics Portfolio
+# Portfolio - Nazly Razack
+# [Project 1 - Supply Chain Delay Analysis](https://github.com/manazly777-art/supply_chain_delay_analysis)
+Modelled logistics data using SQL and DAX measures to build an interactive dashboard identifying core shipping bottlenecks and performance trends.
