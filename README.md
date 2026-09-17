@@ -1,15 +1,10 @@
-# Portfolio - Nazly Razack
-# [Project 1 - Supply Chain Delay Analysis](https://github.com/manazly777-art/supply_chain_delay_analysis)
-Modelled logistics data using SQL and DAX measures to build an interactive dashboard identifying core shipping bottlenecks and performance trends.
-# [Project 2 - Consumer Price Index Analysis)
-Analysed state-wise CPI trends using PivotTables, formulas, and an interactive Excel dashboard to identify regional price variations.
 # Data Analytics Portfolio
 
 Welcome to my Data Analytics portfolio. This repository contains projects developed while transitioning from web development into data analytics, with a focus on SQL, Excel, Power BI, Tableau, and data-driven problem solving.
 
 ## 📊 Projects
 
-### 1. Consumer Price Index & Inflation Analysis
+### [Project 1 - Supply Chain Delay Analysis](https://github.com/manazly777-art/supply_chain_delay_analysis)
 **Domain:** Economics & Finance  
 **Tool:** Excel
 
@@ -19,7 +14,7 @@ Analyzed CPI and inflation trends across Indian states, sectors, and commodity g
 
 ---
 
-### 2. Supply Chain Delay Analysis
+### [Project 2 - Consumer Price Index Analysis](https://github.com/manazly777-art/consumer_price_index_analysis)
 **Domain:** Supply Chain & Operations  
 **Tools:** MySQL, Power BI
 
@@ -29,7 +24,7 @@ Analyzed order, shipping, sales, and delivery data to identify delay patterns an
 
 ---
 
-### 3. FIFA Player Analytics
+### [Project 3 - FIFA Player Analytics 2026](https://github.com/manazly777-art/fifa_player_analytics_2026)
 **Domain:** Sports Analytics  
 **Tool:** Power BI
 
@@ -39,7 +34,7 @@ Analyzed FIFA player attributes, positions, performance metrics, and valuations 
 
 ---
 
-### 4. Netflix User & Content Analytics
+### [Project 4 - Netflix User and Content Analysis](https://github.com/manazly777-art/netflix_user_behaviour_analytics)
 **Domain:** Media & Entertainment  
 **Tool:** Tableau
 
