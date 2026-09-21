@@ -4,7 +4,7 @@ Welcome to my Data Analytics portfolio. This repository contains projects develo
 
 ## 📊 Projects
 
-### [Project 2 - Consumer Price Index Analysis](https://github.com/manazly777-art/consumer_price_index_analysis)
+### [Project 1 - Consumer Price Index Analysis](https://github.com/manazly777-art/consumer_price_index_analysis)
 **Domain:** Economics & Finance  
 **Tool:** Excel
 
@@ -14,7 +14,7 @@ Analyzed CPI and inflation trends across Indian states, sectors, and commodity g
 
 ---
 
-### [Project 1 - Supply Chain Delay Analysis](https://github.com/manazly777-art/supply_chain_delay_analysis)
+### [Project 2 - Supply Chain Delay Analysis](https://github.com/manazly777-art/supply_chain_delay_analysis)
 **Domain:** Supply Chain & Operations  
 **Tools:** MySQL, Power BI
 
