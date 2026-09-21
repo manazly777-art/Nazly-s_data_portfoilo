@@ -9,7 +9,7 @@ Welcome to my Data Analytics portfolio. This repository contains projects develo
 **Tool:** Excel
 
 Analyzed CPI and inflation trends across Indian states, sectors, and commodity groups to identify regional price variations and inflation patterns.
-<img width="1366" height="768" alt="Screenshot 2026-09-04 200526" src="https://github.com/user-attachments/assets/2a8e4517-fda1-4bc7-bd54-38a4b2d7c811" />
+<img alt="Screenshot 2026-09-04 200526" src="https://github.com/user-attachments/assets/2a8e4517-fda1-4bc7-bd54-38a4b2d7c811" />
 
 
 **Skills:** Excel, PivotTables, PivotCharts, Slicers, KPI Cards, Data Cleaning, Data Visualization, Trend Analysis
@@ -21,7 +21,9 @@ Analyzed CPI and inflation trends across Indian states, sectors, and commodity g
 **Tools:** MySQL, Power BI
 
 Analyzed order, shipping, sales, and delivery data to identify delay patterns and evaluate supply chain performance.
-<img width="978" height="537" alt="Screenshot 2026-09-04 201215" src="https://github.com/user-attachments/assets/2683bdfa-24b4-4bd3-a6eb-8e630d239453" />
+<img alt="Screenshot 2026-09-04 201148" src="https://github.com/user-attachments/assets/7a42d321-6544-49a1-957c-413fde2041d5" />
+
+<img alt="Screenshot 2026-09-04 201215" src="https://github.com/user-attachments/assets/2683bdfa-24b4-4bd3-a6eb-8e630d239453" />
 
 **Skills:** SQL, MySQL, Power BI, DAX, Data Modeling, KPI Development, Dashboard Design
 
@@ -32,7 +34,7 @@ Analyzed order, shipping, sales, and delivery data to identify delay patterns an
 **Tool:** Power BI
 
 Analyzed FIFA player attributes, positions, performance metrics, and valuations to explore player patterns and comparisons.
-<img width="979" height="547" alt="Screenshot 2026-09-04 201601" src="https://github.com/user-attachments/assets/caaa48e2-4893-4cea-b7bf-32722fd2bd13" />
+<img alt="Screenshot 2026-09-04 201601" src="https://github.com/user-attachments/assets/caaa48e2-4893-4cea-b7bf-32722fd2bd13" />
 
 **Skills:** Power BI, Power Query, DAX, Data Modeling, Data Visualization, Interactive Reporting
 
@@ -43,7 +45,7 @@ Analyzed FIFA player attributes, positions, performance metrics, and valuations 
 **Tool:** Tableau
 
 Analyzed Netflix user behavior, content preferences, ratings, viewing duration, languages, and geographic trends to uncover audience-engagement patterns.
-<img width="1366" height="768" alt="Screenshot 2026-08-28 195646" src="https://github.com/user-attachments/assets/b22eb8aa-a5ae-4b8e-bb69-181ce9cd029c" />
+<img alt="Screenshot 2026-08-28 195646" src="https://github.com/user-attachments/assets/b22eb8aa-a5ae-4b8e-bb69-181ce9cd029c" />
 
 **Skills:** Tableau, Data Visualization, Calculated Fields, Filters, Geographic Analysis, Dashboard Design
 
