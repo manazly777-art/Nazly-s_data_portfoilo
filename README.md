@@ -82,4 +82,4 @@ My goal is to use data to identify patterns, answer business questions, and comm
 Interested in connecting?
 I'm currently looking for Data Analyst opportunities.
 
-[LinkedIn](linkedin.com/in/nazly-razack) [Email Me](mailto:ma.nazly777@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/nazly-razack/) [Email Me](mailto:ma.nazly777@gmail.com)
