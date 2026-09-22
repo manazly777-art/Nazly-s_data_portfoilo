@@ -1,8 +1,10 @@
-# Data Analytics Portfolio
+# NAZLY A RAZACK
+Data Analyst | Excel | SQL | Power BI | Tableau
 
-Welcome to my Data Analytics portfolio. This repository contains projects developed while transitioning from web development into data analytics, with a focus on SQL, Excel, Power BI, Tableau, and data-driven problem solving.
+Welcome to my Data Analytics portfolio.
+I'm a Data Analyst transitioning from a background in web development, with hands-on experience in Excel, SQL, Power BI, Tableau and Python. This portfolio showcases projects where I clean, analyze and visualize data to answer business questions and communicate actionable insights.
 
-## 📊 Projects
+## 📊 Featured Projects
 
 ### [Project 1 - Consumer Price Index Analysis](https://github.com/manazly777-art/consumer_price_index_analysis)
 **Domain:** Economics & Finance  
@@ -10,7 +12,8 @@ Welcome to my Data Analytics portfolio. This repository contains projects develo
 
 Business Problem: Identify inflation trends and understand how inflation varies across states and commodity groups.
 Analyzed CPI and inflation trends across Indian states, sectors, and commodity groups to identify regional price variations and inflation patterns.
-<img alt="Screenshot 2026-09-04 200526" src="https://github.com/user-attachments/assets/2a8e4517-fda1-4bc7-bd54-38a4b2d7c811" />
+
+<img width="650" height="auto" alt="Screenshot 2026-09-04 200526" src="https://github.com/user-attachments/assets/2a8e4517-fda1-4bc7-bd54-38a4b2d7c811" />
 
 
 **Skills:** Excel, PivotTables, PivotCharts, Slicers, KPI Cards, Data Cleaning, Data Visualization, Trend Analysis
@@ -23,9 +26,10 @@ Analyzed CPI and inflation trends across Indian states, sectors, and commodity g
 
 Business Problem: Identify delivery delays and understand which markets, regions, and shipping methods contribute to supply chain inefficiencies.
 Analyzed order, shipping, sales, and delivery data to identify delay patterns and evaluate supply chain performance.
-<img alt="Screenshot 2026-09-04 201148" src="https://github.com/user-attachments/assets/7a42d321-6544-49a1-957c-413fde2041d5" />
 
-<img alt="Screenshot 2026-09-04 201215" src="https://github.com/user-attachments/assets/2683bdfa-24b4-4bd3-a6eb-8e630d239453" />
+<img width="650" height="auto" alt="Screenshot 2026-09-04 201148" src="https://github.com/user-attachments/assets/7a42d321-6544-49a1-957c-413fde2041d5" />
+<br>
+<img width="650" height="auto" alt="Screenshot 2026-09-04 201215" src="https://github.com/user-attachments/assets/2683bdfa-24b4-4bd3-a6eb-8e630d239453" />
 
 **Skills:** SQL, MySQL, Power BI, DAX, Data Modeling, KPI Development, Dashboard Design
 
@@ -37,7 +41,8 @@ Analyzed order, shipping, sales, and delivery data to identify delay patterns an
 
 Business Problem: Analyze player performance to identify top performers across goals, assists, and goalkeeping statistics.
 Analyzed FIFA player attributes, positions, performance metrics, and valuations to explore player patterns and comparisons.
-<img alt="Screenshot 2026-09-04 201601" src="https://github.com/user-attachments/assets/caaa48e2-4893-4cea-b7bf-32722fd2bd13" />
+
+<img width="650" height="auto" alt="Screenshot 2026-09-04 201601" src="https://github.com/user-attachments/assets/caaa48e2-4893-4cea-b7bf-32722fd2bd13" />
 
 **Skills:** Power BI, Power Query, DAX, Data Modeling, Data Visualization, Interactive Reporting
 
@@ -49,7 +54,8 @@ Analyzed FIFA player attributes, positions, performance metrics, and valuations 
 
 Business Problem: Understand user engagement and content preferences to identify patterns in viewing behavior.
 Analyzed Netflix user behavior, content preferences, ratings, viewing duration, languages, and geographic trends to uncover audience-engagement patterns.
-<img alt="Screenshot 2026-08-28 195646" src="https://github.com/user-attachments/assets/b22eb8aa-a5ae-4b8e-bb69-181ce9cd029c" />
+
+<img width="650" height="auto" alt="Screenshot 2026-08-28 195646" src="https://github.com/user-attachments/assets/b22eb8aa-a5ae-4b8e-bb69-181ce9cd029c" />
 
 **Skills:** Tableau, Data Visualization, Calculated Fields, Filters, Geographic Analysis, Dashboard Design
 
@@ -63,14 +69,17 @@ Analyzed Netflix user behavior, content preferences, ratings, viewing duration, 
 - **Tableau:** Calculated fields, filters, dashboards, geographic visualization
 - **Python:** Pandas, NumPy, Matplotlib, exploratory data analysis
 
-## 🎯 What These Projects Demonstrate
+## 🔄 Analytical Workflow
 
-Across these projects, I have practiced the complete analytical workflow:
-
-**Data → Cleaning → Exploration → Analysis → Visualization → Insights**
+Data Collection → Data Cleaning → Exploration → Analysis → Visualization → Insights
 
 The projects also cover multiple domains, including economics, supply chain operations, sports, and media & entertainment.
 
 ## 📌 Portfolio Focus
 
 My goal is to use data to identify patterns, answer business questions, and communicate actionable insights through clear and interactive visualizations.
+
+Interested in connecting?
+I'm currently looking for Data Analyst opportunities.
+
+[LinkedIn](linkedin.com/in/nazly-razack) [Email Me](mailto:ma.nazly777@gmail.com)
